@@ -3,14 +3,11 @@ body{
 
 }
 .titulo{
-    color:grey;
-    background-color: aliceblue;
- 
+ color:grey;
+    background-color: aliceblue
 }
-h2{
-   color
-}
-figure{
+   
+ figure{
     text-align: center;
     border: width 1px;
     border-color: sold lightgray;
